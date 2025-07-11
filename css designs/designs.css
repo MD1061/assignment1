@@ -81,3 +81,34 @@ nav{
     font-weight: 500;
     padding-right: 200px;
 }
+.insider{
+    display: flex;
+    gap: 40px;
+    justify-content:space-between;
+    margin: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.section-title{
+    color: #252432;
+    font-size: 38px;
+    font-weight: bolder;
+    text-align: center;
+}
+.insider-column-title{
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.productive{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 190px;
+    margin-right: 190px;
+    background-color:aqua;
+}
+.comment{
+    color: #00000080;
+    font-size: 20px;
+    text-align: center;
+}
