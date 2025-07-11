@@ -67,7 +67,7 @@ nav{
 }
 .second-text{
     padding-top: 10px;
-    padding-bottom: 116px;
+    padding-bottom: 50px;
 }
 .title{
     color: #252432;
@@ -88,27 +88,33 @@ nav{
     margin: 40px;
     padding-left: 50px;
     padding-right: 50px;
+    margin-top: 0;
+    padding-top: 0;
 }
 .section-title{
     color: #252432;
     font-size: 38px;
     font-weight: bolder;
     text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 .insider-column-title{
     color: #4E47FF;
     font-size: 80px;
     font-weight: bolder;
+    margin-bottom: 2px;
 }
 .productive{
     padding-bottom: 10px;
     padding-top: 10px;
     margin-left: 190px;
     margin-right: 190px;
-    background-color:aqua;
+    background-color: #4E47FF1A;
 }
 .comment{
     color: #00000080;
     font-size: 20px;
     text-align: center;
+    margin-top: 0px;
 }
