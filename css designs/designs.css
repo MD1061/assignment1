@@ -118,3 +118,35 @@ nav{
     text-align: center;
     margin-top: 0px;
 }
+.sizes{
+    font-size: 42px;
+}
+.user1{
+    display: flex;
+    gap: 30px;
+    justify-content:space-between;
+    margin: 70px;
+    padding-left: 150px;
+    padding-right: 60px;
+}
+.user4{
+    margin-bottom: 10px;
+}
+.image2{
+    border-radius: 9999px;
+}
+.imagelayer{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.imagelayer2{
+    line-height: 0;
+    margin: 0;
+}
+.secondary{
+    color: #424141;
+}
+.tertiary{
+    color: #b7b6bd;
+}
